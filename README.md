@@ -65,7 +65,7 @@ task-manager-api/
 │   ├── routers/          # API routers (users, tasks, auth)
 │   ├── services/         # Business logic
 │   ├── tests/            # Tests
-│   └── ...
+│   └── ...               
 ├── .env.example
 ├── requirements.txt
 ├── Dockerfile
